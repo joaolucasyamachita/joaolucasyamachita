@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hello, come see my profile🤩🤩
 
-<!--
-**joaolucasyamachita/joaolucasyamachita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Lucas 
 
-Here are some ideas to get you started:
+•estou estudando e aprendendo no alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•estou me desenvolvendo no javascript, Alura.
+
+### Caso Queria entrar Em contato comigo
+
+e-mail:joao.penteado.lima@escola.pr.gov.br
+
+Instagram:_luc4s_limaa_
+
+
+![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
